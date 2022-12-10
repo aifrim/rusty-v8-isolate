@@ -1,0 +1,1 @@
+print("Hello", "world!", JSON.stringify({da: 1}), [1,2,3], () => 1)
